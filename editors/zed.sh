@@ -1,1 +1,1 @@
-curl -f https://zed.dev/install.sh
+curl -f https://zed.dev/install.sh | sh
