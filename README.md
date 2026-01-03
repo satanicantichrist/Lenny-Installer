@@ -9,10 +9,11 @@ Example:
 
 
 Tools:
-  brew.sh - https://brew.sh/
-  
-  ohMyPosh.sh -  https://ohmyposh.dev/
+
+  - brew.sh - https://brew.sh/
+  - ohMyPosh.sh -  https://ohmyposh.dev/
 
 Editors:
-  zed.sh - https://zed.dev/
+
+  - zed.sh - https://zed.dev/
   
