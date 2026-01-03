@@ -5,7 +5,7 @@ To see what will be executed type "curl -L stnc.cz/tool-name"
 To install it "curl -L stnc.cz/tool-name | sh"
 
 Example:
-  "curl -L stnc.cz/zed | sh" Installs Zed Editor
+  "curl -L stnc.cz/zed.sh | sh" Installs Zed Editor
 
 
 Tools:
