@@ -1,1 +1,1 @@
-curl -s https://ohmyposh.dev/install.sh
+curl -s https://ohmyposh.dev/install.sh | sh
