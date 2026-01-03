@@ -10,7 +10,7 @@ Example:
 
 Tools:
   brew.sh - https://brew.sh/
-  OhMyPosh.sh -  https://ohmyposh.dev/
+  ohMyPosh.sh -  https://ohmyposh.dev/
 
 Editors:
   zed.sh - https://zed.dev/
